@@ -1,0 +1,8 @@
+{
+  "name": " AgriFuel AI",
+  "description": "Smart farming platform combining AI, IoT, and community biogas, with AI crop analysis, weather and irrigation guidance, residue-to-energy insights, and a regional dashboard for real-time agricultural monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
